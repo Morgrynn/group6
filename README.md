@@ -1,6 +1,7 @@
 # Pulse Up - web app
 
 > School project app created with PHP, Codeigniter and MySQL
+> Forked from [OamkDin19Spring2020/group6](https://github.com/OamkDIn19Spring2020/group6)
 
 ![logo](https://github.com/OamkDIn19Spring2020/group6/blob/develop/assets/img/logo_img/readme.png?raw=true)
 
